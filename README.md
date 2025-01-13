@@ -7,7 +7,8 @@
 ## ✨ 전략적 전투
 **'레벨라티오'**는 타일 기반 전투에 로그라이트 요소를 더한 턴제 전략 게임입니다. 유닛을 전략적으로 소환하고 조종하여 승리를 쟁취하세요.
 
-![전투 화면](https://github.com/wanna175/revelatio/gif/StrategicCombat02.gif)
+![전투 화면](https://raw.githubusercontent.com/wanna175/revelatio/main/gif/StrategicCombat02.gif
+)
 
 ---
 
