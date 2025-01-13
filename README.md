@@ -20,7 +20,7 @@
 
 모두 타락시켜 당신의 심복으로 만들 수 있습니다.
 
-![타락 메커니즘](https://github.com/wanna175/revelatio/gif/Faith_Change_KR.gif)
+![타락 메커니즘](https://raw.githubusercontent.com/wanna175/revelatio/main/gif/Faith_Change_KR.gif)
 
 ---
 
@@ -29,7 +29,7 @@
 - 다양한 성흔 조합으로 유닛을 강화
 - 강력한 군세 구축
 
-![성흔 부여](https://github.com/wanna175/revelatio/gif/Stigmata_KR.gif)
+![성흔 부여](https://raw.githubusercontent.com/wanna175/revelatio/main/gif/Stigmata_KR.gif)
 
 ---
 
@@ -40,7 +40,7 @@
 
 당신의 앞길을 막는 적들을 척살시키세요.
 
-![적 캐릭터](https://github.com/wanna175/revelatio/gif/VariousEnemy.gif)
+![적 캐릭터](https://raw.githubusercontent.com/wanna175/revelatio/main/gif/VariousEnemy.gif)
 
 ---
 
