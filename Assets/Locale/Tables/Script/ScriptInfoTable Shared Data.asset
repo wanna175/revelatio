@@ -1,0 +1,396 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ScriptInfoTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ScriptInfoTable
+  m_TableCollectionNameGuidString: 2acbcb6b143f0fa47a3defdf9318e0bf
+  m_Entries:
+  - m_Id: 3794595840
+    m_Key: Elieus Script_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 256878899200
+    m_Key: Elieus Script_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326152024064
+    m_Key: Yana Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 457081417728
+    m_Key: Tubalcain Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 497464176640
+    m_Key: Rahel&Lea Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 557933457408
+    m_Key: Appaim Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3107023696859136
+    m_Key: Select a unit to bestow stigmata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3107123424825344
+    m_Key: May the divine prayers grace your journey.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3107267004239872
+    m_Key: Upgrade a unit or restore its faith.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3107543148826624
+    m_Key: Messenger of faith First Exit Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998479260422144
+    m_Key: Messenger of faith First Entrance Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998562815152128
+    m_Key: Messenger of faith 0 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998599762776064
+    m_Key: Messenger of faith 0 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998636358078464
+    m_Key: Messenger of faith 0 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998668469669888
+    m_Key: Messenger of faith 25 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998703718600704
+    m_Key: Messenger of faith 25 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998728813121536
+    m_Key: Messenger of faith 25 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998823914770432
+    m_Key: Messenger of faith 50 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998847751000064
+    m_Key: Messenger of faith 50 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998905871470592
+    m_Key: Messenger of faith 50 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998958694535168
+    m_Key: Messenger of faith 75 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5998989874991104
+    m_Key: Messenger of faith 75 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999032849829888
+    m_Key: Messenger of faith 75 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999112872955904
+    m_Key: Betrayer of faith 100 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999161807900672
+    m_Key: Betrayer of faith 100 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999202027081728
+    m_Key: Betrayer of faith 100 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999485109047296
+    m_Key: Messenger of faith Exit 0 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999533851054080
+    m_Key: Messenger of faith Exit 25 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999572770000896
+    m_Key: Messenger of faith Exit 50 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999657352335360
+    m_Key: Messenger of faith Exit 75 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5999721680375808
+    m_Key: Betrayer of faith Exit 100 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6001818073206784
+    m_Key: Messenger of hope First Entrance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6002220726390784
+    m_Key: Messenger of hope 0 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6002222970343424
+    m_Key: Messenger of hope 0 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6002225025552384
+    m_Key: Messenger of hope 0 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6002913575079936
+    m_Key: Messenger of hope 25 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6002915156332544
+    m_Key: Messenger of hope 25 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6003221072089088
+    m_Key: Messenger of hope 50 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6003223701917696
+    m_Key: Messenger of hope 50 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6003273026932736
+    m_Key: Messenger of hope 50 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6003931603963904
+    m_Key: Messenger of hope 75 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6003966269886464
+    m_Key: Messenger of hope 75 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6003968379621376
+    m_Key: Messenger of hope 75 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6004312241246208
+    m_Key: Betrayer of hope 100 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6004314275483648
+    m_Key: Betrayer of hope 100 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6004316834009088
+    m_Key: Betrayer of hope 100 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6004786990321664
+    m_Key: Messenger of hope Exit 0 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6005074073653248
+    m_Key: Messenger of hope Exit 25 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6005192235585536
+    m_Key: Messenger of hope Exit 50 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6005235155898368
+    m_Key: Messenger of hope Exit 75 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6005306324848640
+    m_Key: Betrayer of hope Exit 100 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6017586315825152
+    m_Key: Messenger of love First Entrance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6017773008490496
+    m_Key: Messenger of love 0 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6017794885980160
+    m_Key: Messenger of love 0 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6017796731473920
+    m_Key: Messenger of love 0 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6018304066097152
+    m_Key: Messenger of love 25 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6018309317365760
+    m_Key: Messenger of love 25 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6018311393546240
+    m_Key: Messenger of love 25 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019329191743488
+    m_Key: Messenger of love 50 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019330760413184
+    m_Key: Messenger of love 50 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019332433940480
+    m_Key: Messenger of love 50 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019584071208960
+    m_Key: Messenger of love 75 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019585551798272
+    m_Key: Messenger of love 75 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019587254685696
+    m_Key: Messenger of love 75 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019787771777024
+    m_Key: Betrayer of love 100 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019789243977728
+    m_Key: Betrayer of love 100 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6019791328546816
+    m_Key: Betrayer of love 100 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6020097135251456
+    m_Key: Messenger of love Exit 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6020255633805312
+    m_Key: Messenger of love Exit 25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6020257168920576
+    m_Key: Messenger of love Exit 50
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6020258947305472
+    m_Key: Messenger of love Exit 75
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6020264043384832
+    m_Key: Betrayer of love Exit 100
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6030584996597760
+    m_Key: Messenger of faith Select 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6030698637070336
+    m_Key: Messenger of faith Select 25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6030810947948544
+    m_Key: Messenger of faith Select 50
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6030897509994496
+    m_Key: Messenger of faith Select 75
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6030951314526208
+    m_Key: Betrayer of faith Select 100
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6036756487114752
+    m_Key: Messenger of hope Select 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6037087182819328
+    m_Key: Messenger of hope Select 25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6037146561581056
+    m_Key: Messenger of hope Select 50
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6037210277253120
+    m_Key: Messenger of hope Select 75
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6037288291307520
+    m_Key: Betrayer of hope Select 100
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6041491222990848
+    m_Key: Messenger of love Select 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6041591949201408
+    m_Key: Messenger of love Select 25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6041652099715072
+    m_Key: Messenger of love Select 50
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6041822803693568
+    m_Key: Messenger of love Select 75
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6041927627739136
+    m_Key: Betrayer of love Select 100
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6135992028033024
+    m_Key: Phanuel Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6136047711612928
+    m_Key: The Savior Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76641766804180992
+    m_Key: Libiel Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76641769324957696
+    m_Key: Arabella Script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76641770771992576
+    m_Key: Yohrn Script
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8030905671281541123
+  references:
+    version: 2
+    RefIds:
+    - rid: 8030905671281541123
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1707326014898

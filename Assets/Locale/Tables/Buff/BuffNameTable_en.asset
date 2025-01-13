@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BuffNameTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 006b695ab866e394fb2675df1bc55717, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12116094976
+    m_Localized: Divine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51949400064
+    m_Localized: Attack Boost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83377319936
+    m_Localized: Speed Boost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112586452992
+    m_Localized: Death Strike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136456237056
+    m_Localized: Sadism
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159411662848
+    m_Localized: Immortality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 179976335360
+    m_Localized: Invincibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 200973021184
+    m_Localized: Sacred Step
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235454394368
+    m_Localized: Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 257545793536
+    m_Localized: Malevolence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282799697920
+    m_Localized: Mark of the Beast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306728202240
+    m_Localized: Sin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336331599872
+    m_Localized: Dusk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383777566720
+    m_Localized: Karma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 413548736512
+    m_Localized: Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440706854912
+    m_Localized: Staff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489692131328
+    m_Localized: Book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503696912384
+    m_Localized: Curse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11612092443193344
+    m_Localized: Rahel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11612109350432768
+    m_Localized: Lea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12314845094498304
+    m_Localized: Edified
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16324934008721408
+    m_Localized: Mark Of The Beast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51287601982885888
+    m_Localized: Grudge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55422904335224832
+    m_Localized: Attack Decrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755748567830528
+    m_Localized: Killing Spree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71273951603609600
+    m_Localized: Blessing Of Phanuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71273984533090304
+    m_Localized: Blessing Of Savior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71273990568693760
+    m_Localized: Blessing Of Yorhn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86339396765372416
+    m_Localized: Glory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86359543811035136
+    m_Localized: Awakening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86405420864917504
+    m_Localized: Glory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97337023501848576
+    m_Localized: Despair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97337021689909248
+    m_Localized: Distrust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104773133970591744
+    m_Localized: Bind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104773134952058880
+    m_Localized: Smite
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
